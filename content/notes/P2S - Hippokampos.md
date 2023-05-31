@@ -3,7 +3,7 @@ title: "P2S - Hippokampos"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Asphodelos
 ---
 

@@ -3,7 +3,7 @@ title: "P7S - Adgistis"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 ---
 

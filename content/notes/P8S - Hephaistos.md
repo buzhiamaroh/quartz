@@ -3,7 +3,7 @@ title: "P8S - Hephaistos"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 ---
 

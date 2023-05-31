@@ -3,7 +3,7 @@ title: "P6S - Hegemone"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 ---
 

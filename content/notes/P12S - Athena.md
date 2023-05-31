@@ -27,16 +27,11 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-## Drops
-**Chest One** | **Chest Two**
------------- | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
-
 # Strategy Reference
+## Phase I
+
+## Phase II
 
 ---
 
-# Guide Links
-**The Balance**: 
-
-**Video Guide**: 
+# Video Guides

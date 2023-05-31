@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Anabaseios.md",
+                "file": "notes/P9S - Kokytos.md",
                 "mode": "source",
                 "source": true
               }
@@ -66,20 +66,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f8f7351a7732a7ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e4383c22161632e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Anabaseios.md",
+                "file": "notes/P9S - Kokytos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,21 +126,31 @@
   },
   "active": "7b735f3d0fe1d57f",
   "lastOpenFiles": [
-    "notes/Abyssos.md",
-    "notes/Anabaseios.md",
-    "notes/Astrologian.md",
-    "notes/Asphodelos.md",
-    "notes/P9S - Kokytos.md",
-    "notes/P10S - Pandæmonium.md",
-    "notes/P11S - Themis.md",
-    "notes/P7S - Adgistis.md",
-    "notes/P6S - Hegemone.md",
-    "notes/P5S - Proto-Carbuncle.md",
-    "_index.md",
-    "notes/desu post.md",
     "notes/P12S - Athena.md",
+    "notes/P11S - Themis.md",
+    "notes/P10S - Pandæmonium.md",
+    "notes/P9S - Kokytos.md",
+    "notes/Paladin.md",
+    "notes/Ranged Resources.md",
+    "notes/Reaper.md",
+    "notes/Red Mage.md",
+    "notes/Sage.md",
+    "notes/Samurai.md",
+    "notes/Scholar.md",
+    "notes/Summoner.md",
+    "notes/Tank Resources.md",
+    "notes/P1S - Ericthonios.md",
+    "notes/P2S - Hippokampos.md",
+    "notes/P3S - Phoinix.md",
+    "notes/P4S - Hesperos Part I.md",
+    "notes/P4S - Hesperos Part II.md",
+    "notes/P5S - Proto-Carbuncle.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P7S - Adgistis.md",
     "notes/P8S - Hephaistos.md",
-    "conflict-files-obsidian-git.md",
-    "notes/Mount Ordeals.md"
+    "templates/frontmatter.md",
+    "templates/Fight Template.md",
+    "notes/Anabaseios.md",
+    "notes/Abyssos.md"
   ]
 }

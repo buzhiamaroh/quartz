@@ -29,9 +29,7 @@ tags:
 
 # Strategy Reference
 
+
 ---
 
-# Guide Links
-**The Balance**: 
-
-**Video Guide**: 
+# Video Guides
