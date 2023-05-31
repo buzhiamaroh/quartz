@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fae0fa87b5f0dacb",
+        "id": "687adba785b0923d",
         "type": "tabs",
         "children": [
           {
-            "id": "7b735f3d0fe1d57f",
+            "id": "0106b2099f441c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +139,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b735f3d0fe1d57f",
+  "active": "0106b2099f441c84",
   "lastOpenFiles": [
+    "notes/P9S - Kokytos.md",
     "notes/P8S - Hephaistos.md",
     "notes/P6S - Hegemone.md",
-    "notes/P9S - Kokytos.md",
     "notes/P12S - Athena.md",
     "notes/P11S - Themis.md",
     "notes/P10S - Pandæmonium.md",
