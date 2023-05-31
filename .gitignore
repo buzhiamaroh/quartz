@@ -4,6 +4,6 @@ resources
 .idea
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
-content/.obsidian/workspace
+content/.obsidian/*
 content/.obsidian/workspace.json
 content/.obsidian/workspace.json
