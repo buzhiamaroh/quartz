@@ -66,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "323fa6191e046438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fba53f45c1aef3d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,12 +121,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -126,10 +140,12 @@
   },
   "active": "7b735f3d0fe1d57f",
   "lastOpenFiles": [
+    "notes/P8S - Hephaistos.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P9S - Kokytos.md",
     "notes/P12S - Athena.md",
     "notes/P11S - Themis.md",
     "notes/P10S - Pandæmonium.md",
-    "notes/P9S - Kokytos.md",
     "notes/Paladin.md",
     "notes/Ranged Resources.md",
     "notes/Reaper.md",
@@ -145,9 +161,7 @@
     "notes/P4S - Hesperos Part I.md",
     "notes/P4S - Hesperos Part II.md",
     "notes/P5S - Proto-Carbuncle.md",
-    "notes/P6S - Hegemone.md",
     "notes/P7S - Adgistis.md",
-    "notes/P8S - Hephaistos.md",
     "templates/frontmatter.md",
     "templates/Fight Template.md",
     "notes/Anabaseios.md",
