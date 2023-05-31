@@ -29,17 +29,17 @@ tags:
 
 # Strategy Reference
 
-Kokytus opens with 2 raidwides - Gluttony's Augur, which simply deals moderate damage, followed shortly by Ravening, which deals moderate damage and signals a phase transition. These phases are always in order, starting with Mage's Lament.
+Kokytus opens with 2 raidwides - _Gluttony's Augur_, which simply deals moderate damage, followed shortly by _Ravening_, which deals moderate damage and signals a phase transition. These phases are always in order, starting with **Mage's Lament**.
 
 ## Mage's Lament - Part 1
 
 ### Overview
 
-The first Mage phase (denoted by the Blue buff on the boss) will open with a 2-hit AoE tankbuster on both tanks that will require a swap - make sure to be NW/NE away from the party, and provoke during the castbar.
+The first Mage phase (denoted by the Blue buff on the boss) will open with a 2-hit AoE tankbuster on both tanks that will require a swap (_Duality of Death_) - make sure to be NW/NE away from the party, and provoke during the castbar.
 
-Directly following will be a series of three Dualspell casts (explained below). The element order on these is fixed to always be Fire > Lightning > Fire, but which element is empowered is random, with the exception that the 1st and the 3rd will always be opposite each other (so if Ice is empowered first, Fire will be empowered second).
+Directly following will be a series of three _Dualspell_ casts (explained below). The element order on these is fixed to always be Fire > Lightning > Fire, but which element is empowered is random, with the exception that the 1st and the 3rd will always be opposite each other (so if Ice is empowered first, Fire will be empowered second).
 
-The final Dualspell is the end of this phase, and the boss will cast Ravening once more to transition into Martialist's Lament.
+The final _Dualspell_ is the end of this phase, and the boss will cast _Ravening_ once more to transition into **Martialist's Lament**.
 
 ### Dualspell
 
