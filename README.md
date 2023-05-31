@@ -1,1 +1,5 @@
-Here be my raid notes
+## Here be my raid notes
+
+If you do actually want to contribute information, all of the site content can be found under [content/notes](https://github.com/buzhiamaroh/quartz/tree/hugo/content/notes). My current focus is on hosting strats for Bread Heads and Azem's Thighs Save Lives, but eventually I'll get around to job guides and more in-depth encounter guides as well. 
+
+There's much more information on Quartz specifically on [jackyzha0's page](https://github.com/jackyzha0/quartz), but the gist is that it's using Hugo and Obsidian together for a quick-and-easy site, editable within Obsidian. For an easy editing setup, clone the repo to your machine and open an obsidian vault directly in the content directory - it should load all the config automatically, although you may need to turn on community plugins in the obsidian settings. There's a number of templates I've set up for faster inserting of common page blocks, and an easier way to directly insert raw html blocks (because sometimes I want more than markdown and am too lazy to figure out a better way).

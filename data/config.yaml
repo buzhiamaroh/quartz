@@ -2,3 +2,8 @@ name: B'uzhi Amaroh
 enableToc: true
 enableLinkPreview: true
 page_title: "B'uzhi's Raid Notes"
+links:
+  - link_name: Contact
+    link: mailto:buzhiamaroh@buzhi.bar
+  - link_name: Contribute
+    link: https://github.com/buzhiamaroh/quartz

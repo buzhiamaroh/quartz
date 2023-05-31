@@ -110,6 +110,16 @@ div.admonitionDiv{
   top:0px;
 }
 
+article p{
+  max-width: 85%;
+  margin: auto;
+}
+
+blockquote p{
+  max-width: revert;
+  margin: revert;
+}
+
 #navTOC {
   transition: border-color .5s ease;
   display: block;/* Hidden by default */

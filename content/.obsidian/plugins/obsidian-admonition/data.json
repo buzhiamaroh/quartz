@@ -1,0 +1,67 @@
+{
+  "userAdmonitions": {
+    "dps-check": {
+      "type": "dps-check",
+      "color": "183, 1, 1",
+      "icon": {
+        "type": "rpg",
+        "name": "crossed-swords"
+      },
+      "command": false,
+      "title": "DPS Check",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "enrage": {
+      "type": "enrage",
+      "color": "129, 138, 0",
+      "icon": {
+        "type": "rpg",
+        "name": "skull"
+      },
+      "command": false,
+      "title": "Enrage Timer",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "drops": {
+      "type": "drops",
+      "color": "0, 158, 11",
+      "icon": {
+        "name": "trophy",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Drops",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.3.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.8f43b1",
+  "syncLinks": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true
+}

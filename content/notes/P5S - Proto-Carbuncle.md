@@ -3,7 +3,7 @@ title: "P5S - Proto-Carbuncle"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 ---
 

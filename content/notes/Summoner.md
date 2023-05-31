@@ -102,7 +102,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 > If snake phase first -> use phoenix before the second leg phase (downtime) and condense primals after the downtime at enrage. Pot at 0/6 mins.
 
 ### P8S II
-> Use phoenix and Energy Drain immediately after High Concept 2. By using both on CD, you will gain an extra use before enrage. Use Searing where your group is using buffs. 
+> Drop R3 leading into HC1. Drop R3 and 3 Emerald Rites leading into HC2. Use phoenix and Energy Drain immediately after High Concept 2. By using both on CD, you will gain an extra use before enrage. Use Searing where your group is using buffs. 
 
 ## Asphodelos
 ### P1S

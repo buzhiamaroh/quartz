@@ -3,6 +3,11 @@ title: "Home Page"
 ---
 # Raid
 ## Fight resources
+### [Anabaseios](notes/Anabaseios.md)
+- [P9S - Kokytos](notes/P9S%20-%20Kokytos.md)
+- [P10S - Pandæmonium](notes/P10S%20-%20Pandæmonium.md)
+- [P11S - Themis](notes/P11S%20-%20Themis.md)
+- [P12S - Athena](notes/P12S%20-%20Athena.md)
 ### [Abyssos](notes/Abyssos)
 - [P5S - Proto-Carbuncle](notes/P5S%20-%20Proto-Carbuncle)
 - [P6S - Hegemone](notes/P6S%20-%20Hegemone)
@@ -19,6 +24,8 @@ title: "Home Page"
 - [Ultimate Coils of Bahamut](Ultimate%20Coils%20of%20Bahamut)
 - [The Epic of Alexander Ultimate](notes/The%20Epic%20of%20Alexander%20Ultimate)
 - [Dragonsong War Ultimate](notes/Dragonsong%20War%20Ultimate)
+### Extreme
+- [Mount Ordeals](notes/Mount%20Ordeals)
 
 # Combat Jobs
 - [Tank Resources](notes/Tank%20Resources)

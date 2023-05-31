@@ -2,6 +2,8 @@
 public
 resources
 .idea
-content/.obsidian
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
+content/.obsidian/*
+content/.obsidian/workspace.json
+content/.obsidian/workspace.json
