@@ -51,7 +51,13 @@ The final _Dualspell_ is the end of this phase, and the boss will cast _Ravening
 
 ## Martialist's Lament
 
-> placeholder
+This phase will open with 4 walls being spawned on either cardinals or intercardinals, followed by _Ascendant Fist_, a single-hit tankbuster that will apply a DoT and Physical vuln effect, requiring a tank swap.
+
+Immediately after, the boss will cast _Archaic Rockbreaker_ - this will cause a knockback from the center of the arena that has a pushback greater than the distance to the edge of the arena. To resolve this, you'll need to get knocked back into the walls that have spawned with your same partner from Fire in _Dualspell_. This knockback is followed by a 2-person stack AoE.
+
+This is followed up immediately again by either _Front Combination_ or _Rear Combination_. There will either be a donut (in) or point blank (out) indicator on the floor, followed by a 180-degree cleave either in front or behind the boss (signaled by the cast name), which is then followed by the opposite to the first AoE.
+
+At the same time that 
 
 ## Chimera's Lament - Part 1
 
