@@ -44,6 +44,8 @@ tags:
 <p class="center"><a href="https://cdn.discordapp.com/attachments/1014266428762902630/1014778690292420670/exchange.png" target="new"><img src="/notes/images/p6s poly cheat sheet.png" width="90%"></a></p>
 {{< /rawhtml >}}
 
+{{< figure src="/notes/images/p6s poly cheat sheet.png" link="/notes/images/p6s poly cheat sheet.png" >}}
+
 (Click for full-size)
 
 ## Cachexia
