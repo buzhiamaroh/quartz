@@ -89,8 +89,6 @@ After all of this, there will be _Archaic Demolish_, a simple light party stack 
 
 {{< /rawhtml >}}
 
-{{< youtube id="oSdv6f8qNA0" >}}
-
 ## Beast's Lament
 
 > placeholder
