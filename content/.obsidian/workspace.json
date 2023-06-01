@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/P6S - Hegemone.md",
+                "file": "notes/P9S - Kokytos.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P6S - Hegemone.md",
+                "file": "notes/P9S - Kokytos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,10 +141,15 @@
   },
   "active": "0106b2099f441c84",
   "lastOpenFiles": [
-    "notes/P3S - Phoinix.md",
-    "notes/P9S - Kokytos.md",
     "notes/P8S - Hephaistos.md",
+    "notes/Mount Ordeals.md",
+    "notes/P1S - Ericthonios.md",
+    "notes/Melee Resources.md",
+    "notes/P9S - Kokytos.md",
+    "notes/desu post.md",
+    "templates/insert figure.md",
     "notes/P6S - Hegemone.md",
+    "notes/P3S - Phoinix.md",
     "notes/P12S - Athena.md",
     "notes/P11S - Themis.md",
     "notes/P10S - Pandæmonium.md",
@@ -157,15 +162,10 @@
     "notes/Scholar.md",
     "notes/Summoner.md",
     "notes/Tank Resources.md",
-    "notes/P1S - Ericthonios.md",
     "notes/P2S - Hippokampos.md",
     "notes/P4S - Hesperos Part I.md",
     "notes/P4S - Hesperos Part II.md",
     "notes/P5S - Proto-Carbuncle.md",
-    "notes/P7S - Adgistis.md",
-    "templates/frontmatter.md",
-    "templates/Fight Template.md",
-    "notes/Anabaseios.md",
-    "notes/Abyssos.md"
+    "notes/P7S - Adgistis.md"
   ]
 }
