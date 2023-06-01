@@ -29,11 +29,9 @@ tags:
 
 # Strategy Reference
 
-Kokytus opens with 2 raidwides - _Gluttony's Augur_, which simply deals moderate damage, followed shortly by _Ravening_, which deals moderate damage and signals a phase transition. These phases are always in order, starting with **Mage's Lament**.
+Kokytus opens with 2 raidwides - _Gluttony's Augur_, which simply deals moderate raidwide damage, followed shortly by _Ravening_, which signals a phase transition, and deals moderate raidwide damage after a 5 second delay. These phases are always in order, starting with **Mage's Lament**.
 
 ## Mage's Lament - Part 1
-
-### Overview
 
 The first Mage phase (denoted by the Blue buff on the boss) will open with a 2-hit AoE tankbuster on both tanks that will require a swap (_Duality of Death_) - make sure to be NW/NE away from the party, and provoke during the castbar.
 
@@ -55,13 +53,21 @@ This phase will open with 4 walls being spawned on either cardinals or intercard
 
 Immediately after, the boss will cast _Archaic Rockbreaker_ - this will cause a knockback from the center of the arena that has a pushback greater than the distance to the edge of the arena. To resolve this, you'll need to get knocked back into the walls that have spawned with your same partner from Fire in _Dualspell_. This knockback is followed by a 2-person stack AoE.
 
-This is followed up immediately again by either _Front Combination_ or _Rear Combination_. There will either be a donut (in) or point blank (out) indicator on the floor, followed by a 180-degree cleave either in front or behind the boss (signaled by the cast name), which is then followed by the opposite to the first AoE.
+This is followed up immediately again by either _Front Combination_ or _Rear Combination_. There will either be a donut (in) or point blank (out) indicator on the floor, followed by a 180-degree cleave either in front or behind the boss (signaled by the cast name), which is then followed by the opposite to the first AoE. This essentially means there's a total of four possible patterns:
 
-At the same time that 
+> Donut > Front OR Rear cleave > Point blank
+>                                  OR
+>Point blank > Front OR Rear cleave > Donut
+
+At the same time that _Front/Rear Combination_ AoEs are going off, there will be cracks on the floor that have glowing lines growing through them. When these lines reach their end, they'll explode in a large AoE around the tip, meaning you'll have to dodge both at once. This will happen twice, and both times the AoEs from the lines will go off at the same time as the in/out from _Combination_. There will be a split second to adjust before the line AoEs explode, but the snapshot is very tight.
+
+Because you're dodging both at once, there's an easy way to simplify safe spots - if the _Combination_ AoE is in, stand ON the long lines and away from the short lines. If it's out, stand on the wall near the short lines and AWAY from the long lines.
+
+After all of this, there will be _Archaic Demolish_, a simple light party stack on both healers, followed by a _Gluttony's Augur_ raidwide and another _Ascendant Fist_ tankbuster. There is very little time between the stacks and raidwide, so this is a good place for heavy mit. If you've gotten past all this, it's time for **Chimera's Lament**, also known as Blitzball.
 
 ## Chimera's Lament - Part 1
 
-### Levinstrike / Blitzball / Limit Cut
+
 
 #### Hector mini-guide{.center}
 {{< rawhtml >}}
