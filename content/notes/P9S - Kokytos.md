@@ -57,9 +57,10 @@ This is followed up immediately again by either _Front Combination_ or _Rear Com
 
 > Donut > Front OR Rear cleave > Point blank
 >
->OR {.center}
+>OR
 >
 >Point blank > Front OR Rear cleave > Donut
+{.center}
 
 At the same time that _Front/Rear Combination_ AoEs are going off, there will be cracks on the floor that have glowing lines growing through them. When these lines reach their end, they'll explode in a large AoE around the tip, meaning you'll have to dodge both at once. This will happen twice, and both times the AoEs from the lines will go off at the same time as the in/out from _Combination_. There will be a split second to adjust before the line AoEs explode, but the snapshot is very tight.
 
