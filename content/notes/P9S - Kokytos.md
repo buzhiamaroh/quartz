@@ -41,7 +41,7 @@ Directly following will be a series of three _Dualspell_ casts (explained below)
 
 The final _Dualspell_ is the end of this phase, and the boss will cast _Ravening_ once more to transition into **Martialist's Lament**.
 
-### Dualspell
+#### Dualspell{.center}
 
 >The boss will begin charging two elements that can be seen on his hands - this will always be a combination of an Ice element donut AoE, and either Fire (AoE on 4 random players, always all DPS or all support), or Lightning (line AoE on every player). Getting hit by any of these leaves a magic vuln, so if you get hit by 2 (either by getting clipped by the Ice donut, or overlapping the baited AoEs), you will die.
 >
