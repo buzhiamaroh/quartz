@@ -62,9 +62,11 @@ This is followed up immediately again by either _Front Combination_ or _Rear Com
 >Point blank > Front OR Rear cleave > Donut
 {.center}
 
-At the same time that _Front/Rear Combination_ AoEs are going off, there will be cracks on the floor that have glowing lines growing through them. When these lines reach their end, they'll explode in a large AoE around the tip, meaning you'll have to dodge both at once. This will happen twice, and both times the AoEs from the lines will go off at the same time as the in/out from _Combination_. There will be a split second to adjust before the line AoEs explode, but the snapshot is very tight.
+At the same time that _Front/Rear Combination_ AoEs are going off, there will be cracks on the floor that have glowing lines growing through them. When these lines reach their end, they'll explode in a large AoE around the tip, meaning you'll have to dodge both at once. This will happen twice, and both times the AoEs from the lines will go off at the same time as the in/out from _Combination_. There will be a split second to adjust before the line AoEs explode, but the snapshot is very tight. There is also a decent amount of time to adjust before the front/rear cleave goes off, so you can dodge that after dodging the crack AoEs.
 
 Because you're dodging both at once, there's an easy way to simplify safe spots - if the _Combination_ AoE is in, stand ON the long lines and away from the short lines. If it's out, stand on the wall near the short lines and AWAY from the long lines.
+
+{{< figure src="/notes/images/p9s_crack_aoes" link="/notes/images/p9s_crack_aoes" class="center" width="40%" >}}
 
 After all of this, there will be _Archaic Demolish_, a simple light party stack on both healers, followed by a _Gluttony's Augur_ raidwide and another _Ascendant Fist_ tankbuster. There is very little time between the stacks and raidwide, so this is a good place for heavy mit. If you've gotten past all this, it's time for **Chimera's Lament**, also known as Blitzball.
 
