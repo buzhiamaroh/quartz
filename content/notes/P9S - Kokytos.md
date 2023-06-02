@@ -70,7 +70,25 @@ After all of this, there will be _Archaic Demolish_, a simple light party stack 
 
 ## Chimera's Lament - Part 1
 
+This phase begins with a short bit of not much while the boss casts _Levinstrike Summon_, which will spawn 4 lightning orbs at either cardinals or intercardinals, along with more walls behind them. Immediately after, he'll cast _Scramble Succession_ , which you'll often hear referred to as Limit Cut, Blitzball, soccer, FIFA, etc., and become untargetable for the duration of the mechanic. This is the first major mechanics wall in the fight.
 
+### Scrambled Succession
+
+What this mechanic actually does is place numbered markers 1 - 3 - 5 - 7 over the lightning orbs that were spawned, and numbered markers 2 - 4 - 6 - 8 over 4 random players. The remaining 4 players will be randomly targeted, one by one, with a large, swirling blue marker over their head. Broken down, here's what each one does:
+
+- **Lightning Orbs**: The boss will jump to each orb in order and kick it to the opposite side of the arena (so if orb 1 is at North, it will be kicked into the wall at South). Upon hitting the opposite wall, it will explode in a point blank AoE, and spawn a tower that will need to be soaked by a player. The tower will give a magic vuln debuff.
+- **Numbered Players**: At the same time that the tower from the lightning orbs resolves, the boss will jump to the numbered players in order and hit them with a small fire AoE. This AoE will also give a magic vuln debuff.
+- **Unmarked Players**: The swirling blue Defamation markers will go off in order, at the same time that the tower and fire AoEs resolve. This will ALSO give a magic vuln debuff. (Seeing a pattern?)
+
+There will be a total of 4 sets of these mechanics, one for each lightning orb. The order will essentially be: Kick > AoEs + Tower resolves > party moves to new positions > Repeat. There are multiple ways to solve this, but in my opinion, the simplest is the Oppo strat.
+
+#### Oppo Strat{.center}
+
+>When the numbers spawn above everything, players with number markers will start standing on the 5 orb, directly across from 1, and will be rotating in the direction of the 7 orb. (Whether this is clockwise or counter-clockwise is random, as well as the position of the orbs relative to North.) The marked 2 player will soak their AoE away from the group, in the corner of the arena either to the left or right of the group - which side doesn't matter, so long as you aren't either hitting the party or being hit by the other mechanics. When the orb explodes and the first tower spawns, it will be soaked by the 6 player - this is to handle the magic vulns from the markers and towers. Fire baits will go in sequential order of 2 > 4 > 6 > 8, and tower baits will be offset by 2, in order of 6 > 8 > 2 > 4. After everything explodes, the whole party will rotate 90 degrees in the previously determined direction, and start the next set from there.
+>
+> An easy way to remember this is that you'll be handling a mechanic every OTHER set of AoEs. So, if you handle the first tower, you do nothing for the next set, then you'll handle your stack, then you'll do nothing for the next set.
+>
+>Unmarked/Defamation players will start standing on the 1 orb, rotating in the direction of the 3 orb. This will be the same rotation as the rest of the party. Your job is slightly easier - the first person marked by the Defamation marker will stay behind at the 1 orb, as close to the wall as you can be, while the rest of the party rotates. Once AoEs explode, the next person to be marked will stay behind while the remaining players rotate, and the player who was just hit can rotate in the opposite direction to rejoin the rest of the party with number markers. From here, you just rotate each time until all 4 markers have gone off.
 
 #### Hector mini-guide{.center}
 {{< rawhtml >}}
@@ -90,9 +108,17 @@ After all of this, there will be _Archaic Demolish_, a simple light party stack 
 
 {{< /rawhtml >}}
 
+If all of this is done correctly, congrats! You're past the hard part. The final mechanic in this phase is _Two Minds_, which is exactly like Dualspell from the first phase, except it resolves much faster. Heal up quickly and resolve based on the elements like before. This is followed by another _Gluttony's Augur_ raidwide, and another _Ravening_ phase transition into **Beast's Lament**.
+
 ## Beast's Lament
 
-> placeholder
+Beast's Lament will begin with _Charybdis_, which spawns 4 very large wind puddles at either the cardinals or intercardinals. Avoid stepping in these, as you will probably die. This is followed by _Comet_, which will spawn 4 meteors in between these puddles that will do proximity damage AoEs when they appear, so stack center and prepare for raidwide damage.
+
+Two of these meteors will be cracked - take note of which ones. The boss will begin casting _Beastly Bile_, which will target the furthest player from the boss with a stack AoE. Shortly after, he'll also cast _Thunderbolt_, which targets the 4 closest players with a massive conal AoE. These two mechanics will resolve at the same time, at the end of the _Thunderbolt_ cast. Meteors that are hit by either of these mechanics will be damaged, with cracked meteors exploding and doing point blank AoE damage, and normal meteors becoming cracked. You do not want normal meteors to become cracked.
+
+To resolve, 4 players (either all DPS or T/H, doesn't matter which) will bait the _Beastly Bile_ AoE at one of the cracked meteors, while the other 4 remain on their color markers in front of the wind puddles to bait the _Thunderbolt_ cones away from all meteors. Once AoEs are baited, these players will swap, with the players that baited the first _Beastly Bile_ moving to bait _Thunderbolt_ and vice versa. The second _Beastly Bile_ players will need to bait at the remaining cracked meteor.
+
+After all this, one of the remaining meteors will be marked with a prey marker as the boss casts _Ecliptic Meteor_ - hide behind the other remaining meteor, line-of-sighting the one that's marked. This meteor will then explode after, so move away, and the boss will cast _Beastly Fury_, a simple raidwide. The boss will then once again cast _Ravening_, bringing you into the second **Chimera's Lament** phase.
 
 ## Chimera's Lament - Part 2
 
