@@ -126,6 +126,8 @@ Two of these meteors will be cracked - take note of which ones. The boss will be
 
 To resolve, 4 players (either all DPS or T/H, doesn't matter which) will bait the _Beastly Bile_ AoE at one of the cracked meteors, while the other 4 remain on their color markers in front of the wind puddles to bait the _Thunderbolt_ cones away from all meteors. Once AoEs are baited, these players will swap, with the players that baited the first _Beastly Bile_ moving to bait _Thunderbolt_ and vice versa. The second _Beastly Bile_ players will need to bait at the remaining cracked meteor.
 
+{{< figure src="/notes/images/p9s_thunderbolt.png" link="/notes/images/p9s_thunderbolt.png" class="center" width="40%" caption="Example of bait positions">}}
+
 After all this, one of the remaining meteors will be marked with a prey marker as the boss casts _Ecliptic Meteor_ - hide behind the other remaining meteor, line-of-sighting the one that's marked. This meteor will then explode after, so move away, and the boss will cast _Beastly Fury_, a simple raidwide. The boss will then once again cast _Ravening_, bringing you into the second **Chimera's Lament** phase.
 
 ## Chimera's Lament - Part 2
