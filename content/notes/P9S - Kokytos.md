@@ -132,11 +132,19 @@ After all this, one of the remaining meteors will be marked with a prey marker a
 
 ## Chimera's Lament - Part 2
 
-> placeholder
+The second Chimera phase is much easier than the first - it's mostly combining mechanics you've already seen in different ways. This will open with another _Duality of Death_ tankbuster, handle it exactly as in the beginning. This will be followed with another _Archaic Rockbreaker_, so once again prepare for knockback into the walls with your partner. The cracked lines from **Martialist's Lament** will return here, as well as another _Dualspell_ to resolve after all of the line AoEs have resolved. _Dualspell_ here will always be Fire + Ice, so finish dodging the crack AoEs, then get into stacks with your partners either in or out based on the empowered element. After this all resolves, heal and mitigate for another _Gluttony's Augur_, and prepare for _Chimeric Succession_.
+
+#### Chimeric Succession{.center}
+
+>The second Succession mechanic is much easier to resolve than the first. This time, the 4 marked players will be hit with large AoEs in number order, the same ones as the Defamation AoEs from Levinstrike. The 1 and 2 marked players will stand NE/NW respectively, all the way in the corners. 3 and 4 will wait slightly south of center, and swap in as 1 and 2 go off (1 swaps with 3, 2 swaps with 4).
+>
+>While the marked players are dealing with this, the rest of the party will stack South, just outside the second ring. The boss will cast _Front/Rear Firestrikes_, jumping to the party and dealing stack damage after the cast ends. After the jump, there will be a short amount of time to turn the boss before he casts _Swinging Kick_, doing either a front or back cleave depending on which _Firestrikes_ was cast. For _Rear Firestrikes_, the party should move North so that the boss will turn towards them and cleave outside the arena. For _Front Firestrikes_, the party should wiggle further South towards the wall to bait the cleave outside the arena, then move out of the way once _Swinging Kick_ starts to be cast.
+
+After _Chimeric Succession_, there will be another _Two Minds_, followed by another _Ravening_ to transition into the second and final **Mage's Lament**.
 
 ## Mage's Lament - Part 2
 
->placeholder
+The second mage phase has nothing new. There will be three completely random _Dualspell_ casts to resolve, with a _Gluttony's Augur_ raidwide and _Duality of Death_ tankbuster after the first and second _Dualspells_. After this, there will be one last transition into Chimera, and the _**Disintegrate**_ enrage cast will begin.
 
 ---
 
