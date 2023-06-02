@@ -39,7 +39,7 @@ Directly following will be a series of three _Dualspell_ casts (explained below)
 
 The final _Dualspell_ is the end of this phase, and the boss will cast _Ravening_ once more to transition into **Martialist's Lament**.
 
-#### Dualspell{.center}
+### Dualspell{.center}
 
 >The boss will begin charging two elements that can be seen on his hands - this will always be a combination of an Ice element donut AoE, and either Fire (AoE on 4 random players, always all DPS or all support), or Lightning (line AoE on every player). Getting hit by any of these leaves a magic vuln, so if you get hit by 2 (either by getting clipped by the Ice donut, or overlapping the baited AoEs), you will die.
 >
@@ -134,7 +134,7 @@ After all this, one of the remaining meteors will be marked with a prey marker a
 
 The second Chimera phase is much easier than the first - it's mostly combining mechanics you've already seen in different ways. This will open with another _Duality of Death_ tankbuster, handle it exactly as in the beginning. This will be followed with another _Archaic Rockbreaker_, so once again prepare for knockback into the walls with your partner. The cracked lines from **Martialist's Lament** will return here, as well as another _Dualspell_ to resolve after all of the line AoEs have resolved. _Dualspell_ here will always be Fire + Ice, so finish dodging the crack AoEs, then get into stacks with your partners either in or out based on the empowered element. After this all resolves, heal and mitigate for another _Gluttony's Augur_, and prepare for _Chimeric Succession_.
 
-#### Chimeric Succession{.center}
+### Chimeric Succession{.center}
 
 >The second Succession mechanic is much easier to resolve than the first. This time, the 4 marked players will be hit with large AoEs in number order, the same ones as the Defamation AoEs from Levinstrike. The 1 and 2 marked players will stand NE/NW respectively, all the way in the corners. 3 and 4 will wait slightly south of center, and swap in as 1 and 2 go off (1 swaps with 3, 2 swaps with 4).
 >
