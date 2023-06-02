@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "020adcc08cd1b08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/insert double image.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P9S - Kokytos.md",
+                "file": "notes/insert double image.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +151,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b735f3d0fe1d57f",
+  "active": "020adcc08cd1b08b",
   "lastOpenFiles": [
+    "notes/P9S - Kokytos.md",
+    "notes/insert double image.md",
+    "notes/images/p9s_crack_aoes_2.png",
     "notes/images/p9s_crack_aoes.png",
     "templates/insert figure.md",
     "notes/Anabaseios.md",
     "notes/Abyssos.md",
     "notes/Astrologian.md",
     "notes/Asphodelos.md",
-    "notes/P9S - Kokytos.md",
     "notes/P10S - Pandæmonium.md",
     "notes/P11S - Themis.md",
     "notes/P7S - Adgistis.md",

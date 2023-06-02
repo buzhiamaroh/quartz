@@ -45,7 +45,7 @@ The final _Dualspell_ is the end of this phase, and the boss will cast _Ravening
 >
 >Each Dualspell cast will also have one of the two elements be empowered, indicated by a colored sigil that matches the element flashing on the screen (Blue for Ice, Red for Fire, and Purple for Lightning). Whichever element is empowered will end up having a much larger AoE effect, just like in Normal.
 >
->Combining this, essentially what this means is you have 2 pieces of information you need to solve the mechanic - Fire vs. Lightning (partner stacks vs. clocks), and Ice or Not Ice (in or out).
+>Combining this, essentially what this means is you have 2 pieces of information you need to solve the mechanic - Fire vs. Lightning (partner stacks vs. clocks), and Ice or Not Ice (in or out). As usual, There Are Lines On The Floor to help you with this - if Ice is empowered, you'll want to stand on the inside of the inner circle, otherwise, stand on the inside of the second circle.
 
 ## Martialist's Lament
 
@@ -60,13 +60,19 @@ This is followed up immediately again by either _Front Combination_ or _Rear Com
 >OR
 >
 >Point blank > Front OR Rear cleave > Donut
-{.center}
+{.centerfig}
 
 At the same time that _Front/Rear Combination_ AoEs are going off, there will be cracks on the floor that have glowing lines growing through them. When these lines reach their end, they'll explode in a large AoE around the tip, meaning you'll have to dodge both at once. This will happen twice, and both times the AoEs from the lines will go off at the same time as the in/out from _Combination_. There will be a split second to adjust before the line AoEs explode, but the snapshot is very tight. There is also a decent amount of time to adjust before the front/rear cleave goes off, so you can dodge that after dodging the crack AoEs.
 
 Because you're dodging both at once, there's an easy way to simplify safe spots - if the _Combination_ AoE is in, stand ON the long lines and away from the short lines. If it's out, stand on the wall near the short lines and AWAY from the long lines.
 
-{{< figure src="/notes/images/p9s_crack_aoes.png" link="/notes/images/p9s_crack_aoes.png" class="center" width="40%" caption="Example of safe spots for donut AoE">}}
+{{< rawhtml >}}
+<figure class="center">
+	<a href="/notes/images/p9s_crack_aoes.png"><img src="/notes/images/p9s_crack_aoes.png" alt="Example of safe spots for AoEs" width="40%"></a>
+	<a href="/notes/images/p9s_crack_aoes_2.png"><img src="/notes/images/p9s_crack_aoes.png_2" alt="Example of safe spots for AoEs" width="40%"></a>
+<figcaption><p>Example of safe spots for AoEs</p></figcaption>
+</figure>
+{{< /rawhtml >}}
 
 After all of this, there will be _Archaic Demolish_, a simple light party stack on both healers, followed by a _Gluttony's Augur_ raidwide and another _Ascendant Fist_ tankbuster. There is very little time between the stacks and raidwide, so this is a good place for heavy mit. If you've gotten past all this, it's time for **Chimera's Lament**, also known as Blitzball.
 
