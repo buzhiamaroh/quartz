@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/P9S - Kokytos.md",
+                "file": "templates/insert double image.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/insert double image.md",
+                "file": "templates/insert double image.md",
                 "mode": "source",
                 "source": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P9S - Kokytos.md",
+                "file": "templates/insert double image.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,11 +150,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b735f3d0fe1d57f",
+  "active": "b8de5944c5b6d0f4",
   "lastOpenFiles": [
-    "notes/images/p9s_thunderbolt.png",
-    "notes/insert double image.md",
     "notes/P9S - Kokytos.md",
+    "notes/images/p9s_thunderbolt.png",
+    "templates/insert double image.md",
     "notes/images/p9s_crack_aoes_2.png",
     "notes/images/p9s_crack_aoes.png",
     "templates/insert figure.md",
