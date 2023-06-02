@@ -66,7 +66,7 @@ At the same time that _Front/Rear Combination_ AoEs are going off, there will be
 
 Because you're dodging both at once, there's an easy way to simplify safe spots - if the _Combination_ AoE is in, stand ON the long lines and away from the short lines. If it's out, stand on the wall near the short lines and AWAY from the long lines.
 
-{{< figure src="/notes/images/p9s_crack_aoes" link="/notes/images/p9s_crack_aoes" class="center" width="40%" >}}
+{{< figure src="/notes/images/p9s_crack_aoes.png" link="/notes/images/p9s_crack_aoes.png" class="center" width="40%" >}}
 
 After all of this, there will be _Archaic Demolish_, a simple light party stack on both healers, followed by a _Gluttony's Augur_ raidwide and another _Ascendant Fist_ tankbuster. There is very little time between the stacks and raidwide, so this is a good place for heavy mit. If you've gotten past all this, it's time for **Chimera's Lament**, also known as Blitzball.
 
