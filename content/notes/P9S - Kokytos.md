@@ -69,7 +69,7 @@ Because you're dodging both at once, there's an easy way to simplify safe spots 
 {{< rawhtml >}}
 <figure class="center">
 	<a href="/notes/images/p9s_crack_aoes.png"><img src="/notes/images/p9s_crack_aoes.png" alt="Example of safe spots for AoEs" width="40%"></a>
-	<a href="/notes/images/p9s_crack_aoes_2.png"><img src="/notes/images/p9s_crack_aoes.png_2" alt="Example of safe spots for AoEs" width="40%"></a>
+	<a href="/notes/images/p9s_crack_aoes_2.png"><img src="/notes/images/p9s_crack_aoes_2.png" alt="Example of safe spots for AoEs" width="40%"></a>
 <figcaption><p>Example of safe spots for AoEs</p></figcaption>
 </figure>
 {{< /rawhtml >}}
