@@ -151,6 +151,12 @@ aside#navTOC ul, li{
   border-color: var(--gray);
 }
 
+@media screen and (max-width: 600px) {
+  aside#navTOC {
+    visibility: hidden;
+  }
+}
+
 .mainTOC{
   transition: border-color .5s ease;
   width: fit-content;
