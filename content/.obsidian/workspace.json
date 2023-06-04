@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/P9S - Kokytos.md",
+                "file": "notes/Summoner.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6ab9eb121858bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Sage.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P9S - Kokytos.md",
+                "file": "notes/Sage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,10 +163,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7b735f3d0fe1d57f",
+  "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
-    "notes/images/p9s_crack_aoes_2.png",
+    "notes/Summoner.md",
+    "notes/Sage.md",
+    "notes/images/SGE-Standard.png",
+    "notes/images/SGE-Standard.png.opdownload",
+    "notes/images/SGE-Pneuma.png",
+    "notes/images/SGE-Pneuma.png.opdownload",
     "notes/P9S - Kokytos.md",
+    "notes/images/p9s_crack_aoes_2.png",
     "templates/insert double image.md",
     "notes/images/p9s_thunderbolt.png",
     "notes/images/p9s_crack_aoes.png",

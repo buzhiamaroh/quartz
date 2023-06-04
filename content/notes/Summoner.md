@@ -33,9 +33,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 	src="https://etro.gg/embed/gearset/750617ed-aad2-42a0-b68a-1f59b2ea035f"
 		></iframe>
 {{< /rawhtml >}}
-
 {{< rawhtml >}}
-
 <iframe 
 		width="49.75%" 
 		height="1000" 
@@ -45,12 +43,9 @@ All builds are viable and competitive with each other. Crit builds are better in
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
-
 {{< /rawhtml >}}
-
 ## Speed builds 
 {{< rawhtml >}}
-
 <iframe 
 		width="50%" 
 		height="1000" 
@@ -60,10 +55,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
-
 {{< /rawhtml >}}
 {{< rawhtml >}}
-
 <iframe 
 		width="49.7%" 
 		height="1000" 
@@ -73,7 +66,6 @@ All builds are viable and competitive with each other. Crit builds are better in
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
-
 {{< /rawhtml >}}
 
 # Optimization
