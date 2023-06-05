@@ -115,12 +115,12 @@ div.admonitionDiv{
   top:0px;
 }
 
-article p, ul{
+article p, article ul{
   max-width: 85%;
   margin: 1em auto;
 }
 
-blockquote p, ul{
+blockquote p, blockquote ul{
   max-width: revert;
   margin: revert;
 }
