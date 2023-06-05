@@ -44,7 +44,7 @@ In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_.
 {{< /rawhtml >}}
 {{< rawhtml >}}
 <iframe 
-		width="49.75%" 
+		width="49.7%" 
 		height="1000" 
 		src="https://etro.gg/embed/gearset/ae3151cd-68b8-4cc5-b03b-a195ed80cb4b" 
 		title="" 

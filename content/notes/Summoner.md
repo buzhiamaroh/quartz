@@ -24,6 +24,7 @@ Gain when group is heavy in 15s buffs and you can clip Slipstream under the buff
 All builds are viable and competitive with each other. Crit builds are better in full uptime scenarios and better at aligning with buffs, but the speed SMN playstyle is still a viable option if you prefer it.
 
 ## General builds 
+
 {{< rawhtml >}}
 <iframe
 	height="1000"
@@ -31,9 +32,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 	title="2.46 w/ SpS melds"
 	frameborder="0"
 	src="https://etro.gg/embed/gearset/750617ed-aad2-42a0-b68a-1f59b2ea035f"
-		></iframe>
-{{< /rawhtml >}}
-{{< rawhtml >}}
+></iframe>
 <iframe 
 		width="49.75%" 
 		height="1000" 
@@ -44,7 +43,9 @@ All builds are viable and competitive with each other. Crit builds are better in
 		allowfullscreen
 ></iframe>
 {{< /rawhtml >}}
+
 ## Speed builds 
+
 {{< rawhtml >}}
 <iframe 
 		width="50%" 
@@ -55,8 +56,6 @@ All builds are viable and competitive with each other. Crit builds are better in
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
-{{< /rawhtml >}}
-{{< rawhtml >}}
 <iframe 
 		width="49.7%" 
 		height="1000" 
