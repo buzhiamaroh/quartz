@@ -37,12 +37,10 @@ In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_.
 <iframe 
 		width="50%" 
 		height="1000" 
-		src="https://etro.gg/embed/gearset/GEARSET ID" 
+		src="https://etro.gg/embed/gearset/d5b50da5-a8e9-4ba0-9f2e-32f1c36ee8b4" 
 		title="" 
 		frameborder="0"
 ></iframe>
-{{< /rawhtml >}}
-{{< rawhtml >}}
 <iframe 
 		width="49.7%" 
 		height="1000" 

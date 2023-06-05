@@ -130,6 +130,10 @@ aside#navTOC ul, li{
   margin: revert
 }
 
+p iframe{
+  max-width: revert;
+}
+
 #navTOC {
   transition: border-color .5s ease;
   display: block;/* Hidden by default */
