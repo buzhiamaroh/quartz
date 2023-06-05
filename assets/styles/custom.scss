@@ -134,6 +134,10 @@ aside#navTOC ul, li{
   max-width: revert;
 }
 
+iframe {
+  display: flex
+}
+
 #navTOC {
   transition: border-color .5s ease;
   display: block;/* Hidden by default */
