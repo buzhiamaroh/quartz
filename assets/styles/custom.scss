@@ -120,22 +120,15 @@ article p, ul, li{
   margin: 1em auto;
 }
 
-blockquote p, aside#navTOC ul, li{
+blockquote p{
   max-width: revert;
   margin: revert;
 }
 
-aside#navTOC ul, li{
-  max-width: revert;
-  margin: revert
-}
-
 .fullwidth{
   max-width: revert;
-}
-
-iframe {
-  display: flex
+  display: flex;
+  justify-content: center;
 }
 
 #navTOC {
