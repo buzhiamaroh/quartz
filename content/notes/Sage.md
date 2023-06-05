@@ -22,19 +22,19 @@ In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_.
 # Gearsets
 ## 2.45 Base Piety Set
 {{< rawhtml >}}
-<iframe 
+<p class="fullwidth"><iframe 
 		width="90.75%" 
 		height="1000" 
 		src="https://etro.gg/embed/gearset/efc239cb-6371-4d1e-b645-8dd7600575b5" 
 		title="" 
 		frameborder="0"
-></iframe>
+></iframe></p>
 {{< /rawhtml >}}
 
 > Identical to WHM 2.45, this is the highest DPS option. If you find yourself struggling with mana, first try optimizing your oGCDs (more on that in a moment). If you've done that and still have mana issues, check out the piety sets below.
 ## Piety Builds
 {{< rawhtml >}}
-<iframe 
+<p class="fullwidth"><iframe 
 		width="50%" 
 		height="1000" 
 		src="https://etro.gg/embed/gearset/d5b50da5-a8e9-4ba0-9f2e-32f1c36ee8b4" 
@@ -47,7 +47,7 @@ In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_.
 		src="https://etro.gg/embed/gearset/ae3151cd-68b8-4cc5-b03b-a195ed80cb4b" 
 		title="" 
 		frameborder="0"
-></iframe>
+></iframe></p>
 {{< /rawhtml >}}
 
 # Optimization
