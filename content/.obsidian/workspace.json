@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "020adcc08cd1b08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/insert double image.md",
+                "file": "notes/P10S - Pandæmonium.md",
                 "mode": "source",
                 "source": true
               }
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Sage.md",
+                "file": "notes/P10S - Pandæmonium.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,15 +153,21 @@
   },
   "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
-    "notes/Summoner.md",
+    "notes/images/p10s_spreads2.png",
+    "notes/images/p10s_towers2.png",
+    "notes/images/p10s_towers1.png",
+    "notes/images/p10s_spreads1.png",
+    "notes/images/p10s_towers.png",
+    "notes/images/p10s_spreads.png",
     "notes/Sage.md",
+    "templates/insert double image.md",
+    "notes/Summoner.md",
     "notes/images/SGE-Standard.png",
     "notes/images/SGE-Standard.png.opdownload",
     "notes/images/SGE-Pneuma.png",
     "notes/images/SGE-Pneuma.png.opdownload",
     "notes/P9S - Kokytos.md",
     "notes/images/p9s_crack_aoes_2.png",
-    "templates/insert double image.md",
     "notes/images/p9s_thunderbolt.png",
     "notes/images/p9s_crack_aoes.png",
     "templates/insert figure.md",

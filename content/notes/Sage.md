@@ -9,7 +9,7 @@ tags:
 
 # Openers
 
-In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_. I tend to shield pre-pull and then use _Toxicon II_ directly before the first _Phlegma III_ because I like the sound it makes when you get an Addersting stack. (It does also allow you to weave more freely, but that's not why I do it).
+In both of the below openers, any _Dosis III_ can be replaced with _Toxicon II_. If there's an opening raidwide (which, there pretty much always is), I tend to shield pre-pull and then use _Toxicon II_ directly before the first _Phlegma III_ because I like the sound it makes when you get an Addersting stack. (It does also allow you to weave more freely, but that's not why I do it).
 
 ## Standard Opener
 {{< figure src="/notes/images/SGE-Standard.png" link="/notes/images/SGE-Standard.png" class="center" width="90%" >}}
