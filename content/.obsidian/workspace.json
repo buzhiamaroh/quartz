@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fae0fa87b5f0dacb",
+        "id": "687adba785b0923d",
         "type": "tabs",
         "children": [
           {
-            "id": "7b735f3d0fe1d57f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Summoner.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b6ab9eb121858bba",
+            "id": "0106b2099f441c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "020adcc08cd1b08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/insert double image.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,11 +68,11 @@
         ]
       },
       {
-        "id": "f8f7351a7732a7ec",
+        "id": "323fa6191e046438",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4383c22161632e",
+            "id": "9fba53f45c1aef3d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -146,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,34 +139,38 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6ab9eb121858bba",
+  "active": "0106b2099f441c84",
   "lastOpenFiles": [
-    "notes/Summoner.md",
-    "notes/Sage.md",
-    "notes/images/SGE-Standard.png",
-    "notes/images/SGE-Standard.png.opdownload",
-    "notes/images/SGE-Pneuma.png",
-    "notes/images/SGE-Pneuma.png.opdownload",
     "notes/P9S - Kokytos.md",
-    "notes/images/p9s_crack_aoes_2.png",
     "templates/insert double image.md",
     "notes/images/p9s_thunderbolt.png",
+    "notes/images/p9s_crack_aoes_2.png",
     "notes/images/p9s_crack_aoes.png",
-    "templates/insert figure.md",
-    "notes/Anabaseios.md",
-    "notes/Abyssos.md",
-    "notes/Astrologian.md",
-    "notes/Asphodelos.md",
-    "notes/P10S - Pandæmonium.md",
-    "notes/P11S - Themis.md",
+    "notes/images/SGE-Standard.png",
+    "notes/images/SGE-Pneuma.png",
     "notes/P7S - Adgistis.md",
-    "notes/P6S - Hegemone.md",
-    "notes/P5S - Proto-Carbuncle.md",
-    "_index.md",
-    "notes/desu post.md",
-    "notes/P12S - Athena.md",
     "notes/P8S - Hephaistos.md",
-    "conflict-files-obsidian-git.md",
-    "notes/Mount Ordeals.md"
+    "notes/Mount Ordeals.md",
+    "notes/P1S - Ericthonios.md",
+    "notes/Melee Resources.md",
+    "notes/desu post.md",
+    "templates/insert figure.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P3S - Phoinix.md",
+    "notes/P12S - Athena.md",
+    "notes/P11S - Themis.md",
+    "notes/P10S - Pandæmonium.md",
+    "notes/Paladin.md",
+    "notes/Ranged Resources.md",
+    "notes/Reaper.md",
+    "notes/Red Mage.md",
+    "notes/Sage.md",
+    "notes/Samurai.md",
+    "notes/Scholar.md",
+    "notes/Summoner.md",
+    "notes/Tank Resources.md",
+    "notes/P2S - Hippokampos.md",
+    "notes/P4S - Hesperos Part I.md",
+    "notes/P4S - Hesperos Part II.md"
   ]
 }
