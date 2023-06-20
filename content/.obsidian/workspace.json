@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "fa81a45e3d4932f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Sage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Sage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,15 +151,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0106b2099f441c84",
+  "active": "9fba53f45c1aef3d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "notes/Sage.md",
+    "notes/Ultimate Coils of Bahamut.md",
+    "notes/images/p10s_towers2.png",
+    "notes/images/p10s_towers1.png",
+    "notes/images/p10s_spreads2.png",
+    "notes/images/p10s_spreads1.png",
+    "notes/images/p10s_entangling_web.png",
+    "notes/images/p10s_dividing1.png",
     "notes/P9S - Kokytos.md",
     "templates/insert double image.md",
     "notes/images/p9s_thunderbolt.png",
     "notes/images/p9s_crack_aoes_2.png",
     "notes/images/p9s_crack_aoes.png",
     "notes/images/SGE-Standard.png",
-    "notes/images/SGE-Pneuma.png",
     "notes/P7S - Adgistis.md",
     "notes/P8S - Hephaistos.md",
     "notes/Mount Ordeals.md",
@@ -164,13 +184,10 @@
     "notes/Ranged Resources.md",
     "notes/Reaper.md",
     "notes/Red Mage.md",
-    "notes/Sage.md",
     "notes/Samurai.md",
     "notes/Scholar.md",
     "notes/Summoner.md",
     "notes/Tank Resources.md",
-    "notes/P2S - Hippokampos.md",
-    "notes/P4S - Hesperos Part I.md",
-    "notes/P4S - Hesperos Part II.md"
+    "notes/P2S - Hippokampos.md"
   ]
 }
