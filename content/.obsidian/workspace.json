@@ -27,7 +27,7 @@
               "state": {
                 "file": "notes/Sage.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Sage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9fba53f45c1aef3d",
+  "active": "fa81a45e3d4932f2",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "notes/Sage.md",
