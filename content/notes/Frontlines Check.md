@@ -6,9 +6,9 @@ tags:
 ---
 ## What Frontlines map is it today?
 {{< rawhtml >}}
-<div id="frontlines">
+<p id="frontlines">
 
-</div>
+</p>
 <script>
 let div = document.getElementById("frontlines");
 let today = new Date();

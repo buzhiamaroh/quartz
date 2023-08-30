@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "notes/Frontlines Check.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "notes/Frontlines Check.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,10 @@
   },
   "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
+    "notes/Gunbreaker.md",
     "notes/Frontlines Check.md",
+    "notes/Bard.md",
+    "_index.md",
     "notes/Dragonsong War Ultimate.md",
     "notes/Dragoon.md",
     "notes/P10S - Pandæmonium.md",
@@ -182,7 +185,6 @@
     "notes/P7S - Adgistis.md",
     "notes/P6S - Hegemone.md",
     "notes/P5S - Proto-Carbuncle.md",
-    "_index.md",
     "notes/desu post.md",
     "notes/P12S - Athena.md",
     "notes/P8S - Hephaistos.md",

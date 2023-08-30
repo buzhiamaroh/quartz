@@ -53,6 +53,7 @@ title: "Home Page"
  - [Level 15-70](https://tinyurl.com/arrsbleveguide)
  - [Level 70-80](https://tinyurl.com/shbleveguide)
  - [Level 80-90](https://tinyurl.com/ewleveguide)
-
+ 
+# Other
 ## PVP
 - [Frontlines Check](notes/Frontlines%20Check)
