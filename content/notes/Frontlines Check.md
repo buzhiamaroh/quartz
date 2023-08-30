@@ -3,6 +3,7 @@ title: "Frontlines Check"
 katex: true
 tags:
 - PVP
+toc: false
 ---
 ## What Frontlines map is it today?
 {{< rawhtml >}}
