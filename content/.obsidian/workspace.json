@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Frontlines Check.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Frontlines Check.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,9 +153,9 @@
   },
   "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
+    "notes/Frontlines Check.md",
     "notes/Dragonsong War Ultimate.md",
     "notes/Dragoon.md",
-    "notes/Frontlines Check.md",
     "notes/P10S - Pandæmonium.md",
     "notes/Abyssos.md",
     "notes/images/p10s_entangling_web.png",
