@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Frontlines Check.md",
+                "file": "notes/Abyssos.md",
                 "mode": "source",
                 "source": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Frontlines Check.md",
+                "file": "notes/Abyssos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,18 +153,24 @@
   },
   "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
+    "notes/Anabaseios.md",
+    "notes/Astrologian.md",
+    "notes/Asphodelos.md",
+    "notes/P5S - Proto-Carbuncle.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P7S - Adgistis.md",
+    "notes/Abyssos.md",
+    "notes/Frontlines Check.md",
     "notes/Ultimate.md",
     "notes/Ultimate Coils of Bahamut.md",
     "notes/Warrior.md",
     "notes/White Mage.md",
     "_index.md",
-    "notes/Frontlines Check.md",
     "notes/Gunbreaker.md",
     "notes/Bard.md",
     "notes/Dragonsong War Ultimate.md",
     "notes/Dragoon.md",
     "notes/P10S - Pandæmonium.md",
-    "notes/Abyssos.md",
     "notes/images/p10s_entangling_web.png",
     "notes/images/p10s_dividing1.png",
     "notes/images/p10s_spreads2.png",
@@ -182,13 +188,7 @@
     "notes/images/SGE-Pneuma.png.opdownload",
     "notes/P9S - Kokytos.md",
     "templates/insert figure.md",
-    "notes/Anabaseios.md",
-    "notes/Astrologian.md",
-    "notes/Asphodelos.md",
     "notes/P11S - Themis.md",
-    "notes/P7S - Adgistis.md",
-    "notes/P6S - Hegemone.md",
-    "notes/P5S - Proto-Carbuncle.md",
     "notes/desu post.md",
     "notes/P12S - Athena.md"
   ]

@@ -3,7 +3,7 @@ title: "Abyssos"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 toc: false
 ---

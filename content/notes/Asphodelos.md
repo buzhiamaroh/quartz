@@ -2,7 +2,7 @@
 title: "Asphodelos"
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Asphodelos
 toc: false
 ---

@@ -1,3 +1,12 @@
+---
+title: Anabaseios
+katex: true
+tags:
+- Raid
+- Pandaemonium
+- Anabaseios
+---
+
 ## Fights in tier:
 
 - [P9S - Kokytos](notes/P9S%20-%20Kokytos.md)
