@@ -15,14 +15,14 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		
+		68.4k
 	</p>
 
 	<p class="admonitionEnrageHeader">
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		10:35
 	</p>
 </div>
 {{< /rawhtml >}}
@@ -71,6 +71,8 @@ To get the tanks back home, the boss will helpfully cast _Entangling Web_. Both 
 ## Pandæmoniac Pillars
 
 Once the web bridges are formed, everyone mosey back center for _Pandæmoniac Pillars_ - these will be tower soaks, follow your positions from [Setup](notes/P10S%20-%20Pandæmonium/#setup). After soaking your towers, cheat back close to the middle, and watch for the castbar. The boss will once again cast either _Holy_ or _Circles_, making either the front or middle row safe, and then the towers will randomly spawn either donut or point blank AoEs. This happens **VERY** quickly, and you don't have much time to adjust - I've found the easiest way to solve this is to cheat towards the safe lane before the towers appear, then keep an eye out for the large ones with chains (the point blanks). They're much easier to see at a glance than the donuts, so you can just dodge away from those into a donut tower.
+
+## Silkspit
 
 ---
 

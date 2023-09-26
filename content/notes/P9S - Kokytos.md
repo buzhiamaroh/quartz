@@ -15,7 +15,7 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		
+		61.3k including downtime, 63.7k without
 	</p>
 
 	<p class="admonitionEnrageHeader">
