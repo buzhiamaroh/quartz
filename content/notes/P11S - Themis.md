@@ -56,13 +56,9 @@ In general, **Light** versions of _Overrulings_ will result in going away from a
 
 _Jury_ is the first _Overruling_ mechanic in this phase and is repeated throughout the fight. Light or Dark, it always starts with line proteans from the boss which are taken in clock spots at max melee.
 
-#### Light
+**Light:** For the Light version, after proteans you'll drop point-blank AoEs underneath your positions. There will also be a light party stack, so to resolve, simply move in in your light parties.
 
-For the Light version, after proteans you'll drop point-blank AoEs underneath your positions. There will also be a light party stack, so to resolve, simply move in in your light parties.
-
-#### Dark
-
-For the Dark version, after proteans you'll drop donut AoEs under your positions. There are partner stacks directly after, so supports rotate clockwise to their DPS partner who stays in their clock spot.
+**Dark:** For the Dark version, after proteans you'll drop donut AoEs under your positions. There are partner stacks directly after, so supports rotate clockwise to their DPS partner who stays in their clock spot.
 
 ### Divisive Overruling{.center}
 
