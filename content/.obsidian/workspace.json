@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "687adba785b0923d",
+        "id": "fae0fa87b5f0dacb",
         "type": "tabs",
         "children": [
           {
-            "id": "0106b2099f441c84",
+            "id": "7b735f3d0fe1d57f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sage.md",
+                "file": "notes/P9S - Kokytos.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "fa81a45e3d4932f2",
+            "id": "b6ab9eb121858bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/P10S - Pandæmonium.md",
+                "file": "notes/P11S - Themis.md",
                 "mode": "source",
                 "source": true
               }
@@ -81,11 +81,11 @@
         ]
       },
       {
-        "id": "323fa6191e046438",
+        "id": "f8f7351a7732a7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "9fba53f45c1aef3d",
+            "id": "8e4383c22161632e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P10S - Pandæmonium.md",
+                "file": "notes/P11S - Themis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,8 +134,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,43 +151,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fa81a45e3d4932f2",
+  "active": "b6ab9eb121858bba",
   "lastOpenFiles": [
-    "notes/P11S - Themis.md",
-    "notes/P12S - Athena.md",
-    "notes/P8S - Hephaistos.md",
-    "notes/P10S - Pandæmonium.md",
-    "notes/P6S - Hegemone.md",
-    "notes/P5S - Proto-Carbuncle.md",
+    "notes/images/p11s-jurylight.png",
+    "notes/images/p11s-jurydark.png",
+    "notes/images/p11s-jurystart.png",
     "notes/P9S - Kokytos.md",
-    "notes/Sage.md",
+    "notes/Summoner.md",
+    "notes/P11S - Themis.md",
+    "notes/Abyssos.md",
+    "notes/Anabaseios.md",
+    "notes/Astrologian.md",
+    "notes/Asphodelos.md",
+    "notes/P5S - Proto-Carbuncle.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P7S - Adgistis.md",
     "notes/Frontlines Check.md",
-    "conflict-files-obsidian-git.md",
+    "notes/Ultimate.md",
     "notes/Ultimate Coils of Bahamut.md",
-    "notes/images/p10s_towers2.png",
-    "notes/images/p10s_towers1.png",
-    "notes/images/p10s_spreads2.png",
-    "notes/images/p10s_spreads1.png",
+    "notes/Warrior.md",
+    "notes/White Mage.md",
+    "_index.md",
+    "notes/Gunbreaker.md",
+    "notes/Bard.md",
+    "notes/Dragonsong War Ultimate.md",
+    "notes/Dragoon.md",
+    "notes/P10S - Pandæmonium.md",
     "notes/images/p10s_entangling_web.png",
     "notes/images/p10s_dividing1.png",
+    "notes/images/p10s_spreads2.png",
+    "notes/images/p10s_towers2.png",
+    "notes/images/p10s_towers1.png",
+    "notes/images/p10s_spreads1.png",
+    "notes/images/p10s_towers.png",
+    "notes/images/p10s_spreads.png",
+    "notes/Sage.md",
     "templates/insert double image.md",
-    "notes/images/p9s_thunderbolt.png",
-    "notes/images/p9s_crack_aoes_2.png",
-    "notes/images/p9s_crack_aoes.png",
-    "notes/images/SGE-Standard.png",
-    "notes/P7S - Adgistis.md",
-    "notes/Mount Ordeals.md",
-    "notes/P1S - Ericthonios.md",
-    "notes/Melee Resources.md",
-    "notes/desu post.md",
+    "notes/images/SGE-Standard.png.opdownload",
+    "notes/images/SGE-Pneuma.png.opdownload",
     "templates/insert figure.md",
-    "notes/P3S - Phoinix.md",
-    "notes/Paladin.md",
-    "notes/Ranged Resources.md",
-    "notes/Reaper.md",
-    "notes/Red Mage.md",
-    "notes/Samurai.md",
-    "notes/Scholar.md",
-    "notes/Summoner.md"
+    "notes/desu post.md"
   ]
 }
