@@ -60,9 +60,49 @@ _Jury_ is the first _Overruling_ mechanic in this phase and is repeated througho
 
 **Dark:** For the Dark version, after proteans you'll drop donut AoEs under your positions. There are partner stacks directly after, so supports rotate clockwise to their DPS partner who stays in their clock spot.
 
+### Upheld Overruling{.center}
+
+{{< rawhtml >}}
+<figure class="center">
+	<a href="/notes/images/p11s-upheldlight1.png"><img src="/notes/images/p11s-upheldlight1.png" alt="" width="40%"></a>
+	<a href="/notes/images/p11s-upheldlight2.png"><img src="/notes/images/p11s-upheldlight2.png" alt="" width="40%"></a>
+<figcaption><p>Light version</p></figcaption>
+</figure>
+<br>
+<figure class="center">
+	<a href="/notes/images/p11s-uphelddark1.png"><img src="/notes/images/p11s-uphelddark1.png" alt="" width="40%"></a>
+	<a href="/notes/images/p11s-uphelddark2.png"><img src="/notes/images/p11s-uphelddark2.png" alt="" width="40%"></a>
+<figcaption><p>Dark version</p></figcaption>
+</figure>
+{{< /rawhtml >}}
+
+_Upheld_ will start with a tether on a random(ish) player that will indicate who the mechanic is originating from. Regardless of what version it is, the tethered player should move to the center of the boss's hitbox.
+
+**Light:** A random player is tethered for a full-party stack. Immediately afterwards, a large point-blank AoE and light parties will happen, so resolve in your light parties at max melee East/West.
+
+**Dark:** A random tank is targeted for a large AoE tankbuster (use cooldowns!). All others stand max melee in your partner stacks. Once the tankbuster has gone off, move inside to dodge a donut AoE and resolve partner stacks. (The tethered tank will just move to their partner stack position from center.)
+
 ### Divisive Overruling{.center}
 
+{{< rawhtml >}}
+<figure class="center">
+	<a href="/notes/images/p11s-divisivelight1.png"><img src="/notes/images/p11s-divisivelight1.png" alt="" width="40%"></a>
+	<a href="/notes/images/p11s-divisivelight2.png"><img src="/notes/images/p11s-divisivelight2.png" alt="" width="40%"></a>
+<figcaption><p>Light version</p></figcaption>
+</figure>
+<br>
+<figure class="center">
+	<a href="/notes/images/p11s-divisivedark1.png"><img src="/notes/images/p11s-divisivedark1.png" alt="" width="40%"></a>
+	<a href="/notes/images/p11s-divisivedark2.png"><img src="/notes/images/p11s-divisivedark2.png" alt="" width="40%"></a>
+<figcaption><p>Dark version</p></figcaption>
+</figure>
+{{< /rawhtml >}}
 
+_Divisive_ will start with Themis casting a line AoE slightly smaller than the size of his hitbox directly in front and back of him, followed by the usual secondary Light or Dark mechanics.
+
+**Light:** The line AoE will go off again, but much larger, at the same time as light parties. Once again resolve in light parties at max melee East/West.
+
+**Dark:** The line AoE will explode on the inverse of where it did initially (so the previous AoE size is the safe spot - _tHeRe ArE lInEs On ThE fLoOr_) at the same time as partner stacks. Once again resolve in partner stacks inside the safe spot.
 
 ---
 
