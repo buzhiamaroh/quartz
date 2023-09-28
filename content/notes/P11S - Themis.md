@@ -42,6 +42,23 @@ In general, **Light** versions of _Overrulings_ will result in going away from a
 >**Dark** = Partners (doubles) + in
 {.centerfig}
 
+### Yukizuri Raidplan{.center}
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/0NM-VXc1aXEHpopQ" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
 ### Jury Overruling{.center}
 
 {{< figure src="/notes/images/p11s-jurystart.png" link="/notes/images/p11s-jurystart.png" class="center" width=40%" caption="Starting clock positions">}}
