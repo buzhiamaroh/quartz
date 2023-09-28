@@ -71,7 +71,7 @@ In general, **Light** versions of _Overrulings_ will result in going away from a
 </figure>
 {{< /rawhtml >}}
 
-_Jury_ is the first _Overruling_ mechanic in this phase and is repeated throughout the fight. Light or Dark, it always starts with line proteans from the boss which are taken in clock spots at max melee.
+_Jury_ is the first _Overruling_ mechanic in this phase. Light or Dark, it always starts with line proteans from the boss which are taken in clock spots at max melee.
 
 **Light:** For the Light version, after proteans you'll drop point-blank AoEs underneath your positions. There will also be a light party stack, so to resolve, simply move in in your light parties.
 
@@ -124,6 +124,26 @@ _Divisive_ will start with Themis casting a line AoE slightly smaller than the s
 **Light:** The line AoE will go off again, but much larger, at the same time as light parties. Once again resolve in light parties at max melee East/West.
 
 **Dark:** The line AoE will explode on the inverse of where it did initially (so the previous AoE size is the safe spot - _tHeRe ArE lInEs On ThE fLoOr_) at the same time as partner stacks. Once again resolve in partner stacks inside the safe spot.
+
+_Divisive_ is followed by _Styx_, a multi-hit full party stack that will repeat throughout the fight. Each time it occurs, one additional hit will be added. The first hit also hits for a little under _3x_ the damage as the following hits, so using a large shield/heal there then trickle after works well.
+
+### Arcane Revelation/Dismissal Overruling{.center}
+
+{{< figure src="/notes/images/p11s-dismissalsafety.png" link="/notes/images/p11s-dismissalsafety.png" class="center" width="30%" >}}
+
+{{< rawhtml >}}
+<figure class="center">
+	<a href="/notes/images/p11s-dismissallight.png"><img src="/notes/images/p11s-dismissallight.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-dismissaldark.png"><img src="/notes/images/p11s-dismissaldark.png" alt="" width="30%"></a>
+<figcaption><p></p></figcaption>
+</figure>
+{{< /rawhtml >}}
+
+This is technically two separate mechanics happening here, but they're resolved somewhat together so everyone is pairing them. First, Themis will cast _Arcane Revelation_, which will spawn Light and Dark colored squares on 2 sides of the arena, perpendicular to each other. The energy that Themis glows with while this cast is happening will correspond to which of these squares will shoot lasers - so if he glows **Dark**, the dark squares will shoot line AoEs (simple!). These will also correspond to the diagonal grid pattern on the floor, so use that. 
+
+One row of squares will always be **Dark-Light-Light-Dark**, and the other will always be the opposite. This means that the safe spots will always be the center 2 squares of the grid directly in front of the **opposite** to the color that is detonating, and the mirror 2 squares on the opposite end of the arena from those (see image).
+
+Before these actually go off, _Dismissal Overruling_ will be cast. This will result in a knockback from the boss that can be prevented, followed by the typical Light/Dark out/in stacks. The timing is such that the knockback will go off, then the _Arcane Revelation_ line AoEs will fire, then the Light/Dark mechanic will resolve. This means you can ride the knockback to the safe spot if needed, but it's better to just KB immune it.
 
 ---
 
