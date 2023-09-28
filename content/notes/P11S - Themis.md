@@ -44,7 +44,7 @@ In general, **Light** versions of _Overrulings_ will result in going away from a
 
 ### Jury Overruling{.center}
 
-{{< figure src="/notes/images/p11s-jurystart.png" link="/notes/images/p11s-jurystart.png" class="center" width="50%" caption="Starting clock positions">}}
+{{< figure src="/notes/images/p11s-jurystart.png" link="/notes/images/p11s-jurystart.png" class="center" width=40%" caption="Starting clock positions">}}
 
 {{< rawhtml >}}
 <figure class="center">
