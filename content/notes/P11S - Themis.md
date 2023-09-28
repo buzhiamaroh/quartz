@@ -61,12 +61,12 @@ In general, **Light** versions of _Overrulings_ will result in going away from a
 
 ### Jury Overruling{.center}
 
-{{< figure src="/notes/images/p11s-jurystart.png" link="/notes/images/p11s-jurystart.png" class="center" width=40%" caption="Starting clock positions">}}
+{{< figure src="/notes/images/p11s-jurystart.png" link="/notes/images/p11s-jurystart.png" class="center" width=30%" caption="Starting clock positions">}}
 
 {{< rawhtml >}}
 <figure class="center">
-	<a href="/notes/images/p11s-jurylight.png"><img src="/notes/images/p11s-jurylight.png" alt="" width="40%"></a>
-	<a href="/notes/images/p11s-jurydark.png"><img src="/notes/images/p11s-jurydark.png" alt="" width="40%"></a>
+	<a href="/notes/images/p11s-jurylight.png"><img src="/notes/images/p11s-jurylight.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-jurydark.png"><img src="/notes/images/p11s-jurydark.png" alt="" width="30%"></a>
 <figcaption><p>Light (left) and Dark (right) positions after the initial protean cleaves are baited.</p></figcaption>
 </figure>
 {{< /rawhtml >}}
@@ -78,18 +78,20 @@ _Jury_ is the first _Overruling_ mechanic in this phase and is repeated througho
 **Dark:** For the Dark version, after proteans you'll drop donut AoEs under your positions. There are partner stacks directly after, so supports rotate clockwise to their DPS partner who stays in their clock spot.
 
 ### Upheld Overruling{.center}
-
+#### Light{.center}
 {{< rawhtml >}}
 <figure class="center">
-	<a href="/notes/images/p11s-upheldlight1.png"><img src="/notes/images/p11s-upheldlight1.png" alt="" width="40%"></a>
-	<a href="/notes/images/p11s-upheldlight2.png"><img src="/notes/images/p11s-upheldlight2.png" alt="" width="40%"></a>
-<figcaption><p>Light version</p></figcaption>
+	<a href="/notes/images/p11s-upheldlight1.png"><img src="/notes/images/p11s-upheldlight1.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-upheldlight2.png"><img src="/notes/images/p11s-upheldlight2.png" alt="" width="30%"></a>
+<figcaption><p></p></figcaption>
 </figure>
-<br>
+{{< /rawhtml >}}
+#### Dark{.center}
+{{< rawhtml >}}
 <figure class="center">
-	<a href="/notes/images/p11s-uphelddark1.png"><img src="/notes/images/p11s-uphelddark1.png" alt="" width="40%"></a>
-	<a href="/notes/images/p11s-uphelddark2.png"><img src="/notes/images/p11s-uphelddark2.png" alt="" width="40%"></a>
-<figcaption><p>Dark version</p></figcaption>
+	<a href="/notes/images/p11s-uphelddark1.png"><img src="/notes/images/p11s-uphelddark1.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-uphelddark2.png"><img src="/notes/images/p11s-uphelddark2.png" alt="" width="30%"></a>
+<figcaption><p></p></figcaption>
 </figure>
 {{< /rawhtml >}}
 
@@ -100,18 +102,20 @@ _Upheld_ will start with a tether on a random(ish) player that will indicate who
 **Dark:** A random tank is targeted for a large AoE tankbuster (use cooldowns!). All others stand max melee in your partner stacks. Once the tankbuster has gone off, move inside to dodge a donut AoE and resolve partner stacks. (The tethered tank will just move to their partner stack position from center.)
 
 ### Divisive Overruling{.center}
-
+#### Light{.center}
 {{< rawhtml >}}
 <figure class="center">
-	<a href="/notes/images/p11s-divisivelight1.png"><img src="/notes/images/p11s-divisivelight1.png" alt="" width="40%"></a>
-	<a href="/notes/images/p11s-divisivelight2.png"><img src="/notes/images/p11s-divisivelight2.png" alt="" width="40%"></a>
-<figcaption><p>Light version</p></figcaption>
+	<a href="/notes/images/p11s-divisivelight1.png"><img src="/notes/images/p11s-divisivelight1.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-divisivelight2.png"><img src="/notes/images/p11s-divisivelight2.png" alt="" width="30%"></a>
+<figcaption><p></p></figcaption>
 </figure>
-<br>
+{{< /rawhtml >}}
+#### Dark{.center}
+{{< rawhtml >}}
 <figure class="center">
-	<a href="/notes/images/p11s-divisivedark1.png"><img src="/notes/images/p11s-divisivedark1.png" alt="" width="40%"></a>
-	<a href="/notes/images/p11s-divisivedark2.png"><img src="/notes/images/p11s-divisivedark2.png" alt="" width="40%"></a>
-<figcaption><p>Dark version</p></figcaption>
+	<a href="/notes/images/p11s-divisivedark1.png"><img src="/notes/images/p11s-divisivedark1.png" alt="" width="30%"></a>
+	<a href="/notes/images/p11s-divisivedark2.png"><img src="/notes/images/p11s-divisivedark2.png" alt="" width="30%"></a>
+<figcaption><p></p></figcaption>
 </figure>
 {{< /rawhtml >}}
 
