@@ -133,6 +133,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cb3e8a2dec1eb691",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
