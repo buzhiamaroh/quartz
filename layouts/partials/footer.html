@@ -29,3 +29,7 @@
     }
   </script>
 {{partial "contact.html" .}}
+{{ $js := resources.Get "js/lightbox.js" |  resources.Fingerprint "md5"}}
+<script defer src="{{ $js.Permalink }}"></script>
+</body>
+</html>

@@ -3,7 +3,7 @@ title: "P6S - Hegemone"
 katex: true
 tags:
 - Raid
-- Pandemonium
+- Pandaemonium
 - Abyssos
 ---
 
@@ -40,9 +40,7 @@ tags:
 # Strategy Reference
 ## Aetheric Polyominoid Cheat Sheet
 
-{{< rawhtml >}}
-<p class="center"><a href="https://cdn.discordapp.com/attachments/1014266428762902630/1014778690292420670/exchange.png" target="new"><img src="/notes/images/p6s poly cheat sheet.png" width="90%"></a></p>
-{{< /rawhtml >}}
+{{< figure src="/notes/images/p6s poly cheat sheet.png" link="/notes/images/p6s poly cheat sheet.png" class="center" width="90%" >}}
 
 (Click for full-size)
 

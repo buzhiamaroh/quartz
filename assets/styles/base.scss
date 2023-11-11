@@ -90,7 +90,7 @@ blockquote {
   padding: 15px 35px;
   box-shadow: 2px 4px 5px black;
   max-width: 75%;
-  margin: auto;
+  margin: 15px auto;
   
   &:hover {
     border-color: var(--tertiary);
@@ -152,6 +152,7 @@ article {
   & > .tags {
     list-style: none;
     padding-left: 0;
+    max-width: revert;
 
     & .meta {
       & > h1 {

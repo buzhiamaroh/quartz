@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "0169bd52d238350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae0fa87b5f0dacb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b735f3d0fe1d57f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/P9S - Kokytos.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6ab9eb121858bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/P11S - Themis.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "902824b3c47c18d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e88b0f833be5362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8de5944c5b6d0f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c103035ea3755bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f57c6cb86c86d0b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f8f7351a7732a7ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e4383c22161632e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "24210e2eea6f6ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee86a216ab717698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6edad7899c6dc78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/P11S - Themis.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948036b2aff747ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb3e8a2dec1eb691",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b6ab9eb121858bba",
+  "lastOpenFiles": [
+    "notes/P10S - Pandæmonium.md",
+    "notes/P11S - Themis.md",
+    "notes/images/p11s-dismissallight.bak.png",
+    "notes/images/p11s-dismissalsafety.bak.png",
+    "notes/images/p11s-dismissaldark.bak.png",
+    "notes/images/p11s-dismissallight (Custom).png",
+    "notes/images/p11s-dismissaldark (Custom).png",
+    "notes/images/p11s-dismissalsafety (Custom).png",
+    "notes/images/p11s-dismissaldark.png",
+    "notes/images/p11s-dismissallight.png",
+    "notes/images/p11s-dismissalsafety.png",
+    "notes/images/p11s-divisivelight2.bak.png",
+    "notes/P9S - Kokytos.md",
+    "notes/Summoner.md",
+    "notes/Abyssos.md",
+    "notes/Anabaseios.md",
+    "notes/Astrologian.md",
+    "notes/Asphodelos.md",
+    "notes/P5S - Proto-Carbuncle.md",
+    "notes/P6S - Hegemone.md",
+    "notes/P7S - Adgistis.md",
+    "notes/Frontlines Check.md",
+    "notes/Ultimate.md",
+    "notes/Ultimate Coils of Bahamut.md",
+    "notes/Warrior.md",
+    "notes/White Mage.md",
+    "_index.md",
+    "notes/Gunbreaker.md",
+    "notes/Bard.md",
+    "notes/Dragonsong War Ultimate.md",
+    "notes/Dragoon.md",
+    "notes/Sage.md",
+    "templates/insert double image.md",
+    "notes/images/SGE-Standard.png.opdownload",
+    "notes/images/SGE-Pneuma.png.opdownload",
+    "templates/insert figure.md",
+    "notes/desu post.md"
+  ]
+}

@@ -1,0 +1,1 @@
+{{< figure src="/notes/images/" link="/notes/images/" class="center" width="90%" >}}

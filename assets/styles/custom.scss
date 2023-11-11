@@ -95,6 +95,11 @@ div.admonitionDiv{
   text-align: center;
 }
 
+.centerfig{
+  text-align: center;
+  max-width: fit-content;
+}
+
 .videoEmbed{
   position:relative;
   padding-bottom:45%;
@@ -108,6 +113,22 @@ div.admonitionDiv{
   position:absolute;
   left:0px;
   top:0px;
+}
+
+article p, article ul{
+  max-width: 85%;
+  margin: 1em auto;
+}
+
+blockquote p, blockquote ul{
+  max-width: revert;
+  margin: revert;
+}
+
+.fullwidth{
+  max-width: revert;
+  display: flex;
+  justify-content: center;
 }
 
 #navTOC {
@@ -131,6 +152,12 @@ div.admonitionDiv{
   border-color: var(--gray);
 }
 
+@media screen and (max-width: 600px) {
+  aside#navTOC {
+    visibility: hidden;
+  }
+}
+
 .mainTOC{
   transition: border-color .5s ease;
   width: fit-content;
@@ -148,4 +175,15 @@ div.admonitionDiv{
 
 .mainTOC:hover{
   border-color: var(--gray);
+}
+
+em {
+  font-style: italic;
+  color: #ff82b2;
+}
+
+figcaption p{
+  font-size: smaller;
+  font-style: italic;
+  color: #61c766;
 }

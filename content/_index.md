@@ -3,6 +3,11 @@ title: "Home Page"
 ---
 # Raid
 ## Fight resources
+### [Anabaseios](notes/Anabaseios.md)
+- [P9S - Kokytos](notes/P9S%20-%20Kokytos.md)
+- [P10S - Pandæmonium](notes/P10S%20-%20Pandæmonium.md)
+- [P11S - Themis](notes/P11S%20-%20Themis.md)
+- [P12S - Athena](notes/P12S%20-%20Athena.md)
 ### [Abyssos](notes/Abyssos)
 - [P5S - Proto-Carbuncle](notes/P5S%20-%20Proto-Carbuncle)
 - [P6S - Hegemone](notes/P6S%20-%20Hegemone)
@@ -48,3 +53,7 @@ title: "Home Page"
  - [Level 15-70](https://tinyurl.com/arrsbleveguide)
  - [Level 70-80](https://tinyurl.com/shbleveguide)
  - [Level 80-90](https://tinyurl.com/ewleveguide)
+ 
+# Other
+## PVP
+- [Frontlines Check](notes/Frontlines%20Check)

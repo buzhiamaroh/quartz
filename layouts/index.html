@@ -12,11 +12,11 @@
         <!-- <div class="spacer"></div> -->
         {{partial "darkmode.html" .}}
     </header>
+    <aside id="navTOC">
+        <a href="#">{{ .Title }}</a>
+        {{ .TableOfContents }}
+    </aside>
     <article>
-        <aside id="navTOC">
-            <a href="#">{{ .Title }}</a>
-            {{ .TableOfContents }}
-        </aside>
         <!-- {{ if (and $.Site.Data.config.enableToc (not (.Params.disableToc))) }}
         <aside class="mainTOC">
             <h4>Navigation</h4>
