@@ -1,5 +1,5 @@
 // Add your own CSS here!
-@import "@catppuccin/palette/style";
+@import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 
 :root {
   --light: var(--ctp-latte-base);
