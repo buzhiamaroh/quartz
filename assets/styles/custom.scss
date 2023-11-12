@@ -1,28 +1,35 @@
 // Add your own CSS here!
+@import "@catppuccin/palette/style";
+
 :root {
-  --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
-  --visited: #afbfc9;
-  --primary: #f28482;
-  --gray: #4e4e4e;
-  --lightgray: #f0f0f0;
-  --outlinegray: #dadada;
+  --light: var(--ctp-latte-base);
+  --dark: var(--ctp-latte-text);
+  --secondary: var(--ctp-latte-teal) !important;
+  --visited: var(--ctp-latte-blue) !important;
+  --tertiary: var(--ctp-latte-lavender) !important;
+  --primary: var(--ctp-latte-maroon) !important;
+  --gray: var(--ctp-latte-subtext1) !important;
+  --lightgray: var(--ctp-latte-overlay2) !important;
+  --outlinegray: var(--ctp-latte-surface2) !important;
+  --emphasis: var(--ctp-latte-maroon) !important;
+  --bold: var(--ctp-latte-green) !important;
+  --overlay: var(--ctp-latte-crust) !important;
 }
 
 [saved-theme="dark"] {
-  --light: #1e1e21 !important;
-  --dark: #fbfffe !important;
-  --secondary: #6b879a !important;
-  --visited: #4a575e !important;
-  --tertiary: #84a59d !important;
-  --primary: #f58282 !important;
-  --gray: #d4d4d4 !important;
-  --lightgray: #292633 !important;
-  --outlinegray: #343434 !important;
+  --light: var(--ctp-mocha-crust) !important;
+  --dark: var(--ctp-mocha-text) !important;
+  --secondary: var(--ctp-mocha-teal) !important;
+  --visited: var(--ctp-mocha-blue) !important;
+  --tertiary: var(--ctp-mocha-lavender) !important;
+  --primary: var(--ctp-mocha-maroon) !important;
+  --gray: var(--ctp-mocha-subtext1) !important;
+  --lightgray: var(--ctp-mocha-overlay2) !important;
+  --outlinegray: var(--ctp-mocha-surface2) !important;
+  --emphasis: var(--ctp-mocha-maroon) !important;
+  --bold: var(--ctp-mocha-green) !important;
+  --overlay: var(--ctp-mocha-base) !important;
 }
-
 p.admonitionDamageHeader
 {
   background-color: #b7010120;
@@ -35,7 +42,6 @@ p.admonitionDamageHeader
   padding: 15px 35px;
   color: var(--dark) !important;
   font-weight: bold;
-  box-shadow: 2px 4px 5px black;
   margin-top: 0px;
   margin-bottom: 0px;
   border-top-right-radius: 6px;
@@ -43,12 +49,11 @@ p.admonitionDamageHeader
 }
 
 p.admonitionDamageBody{
-  background-color: #19191b;
+  background-color: var(--overlay);
   border-left: solid 3px #b70101;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
-  box-shadow: 2px 4px 5px black;
   margin-top: 0px;
   margin-bottom: 1em;
   border-bottom-right-radius: 6px;
@@ -67,19 +72,17 @@ p.admonitionEnrageHeader
   padding: 15px 35px;
   color: var(--dark) !important;
   font-weight: bold;
-  box-shadow: 2px 4px 5px black;
   margin-top: 0px;
   margin-bottom: 0px;
   border-top-right-radius: 6px;
 }
 
 p.admonitionEnrageBody{
-  background-color: #19191b;
+  background-color: var(--overlay);
   border-left: solid 3px #ff0;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
-  box-shadow: 2px 4px 5px black;
   margin-top: 0px;
   margin-bottom: 1em;
   border-bottom-right-radius: 6px;
@@ -140,9 +143,8 @@ blockquote p, blockquote ul{
   z-index: 99; /* Make sure it does not overlap */
   border-left: solid 3px var(--primary); /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: #19191b; /* Set a background color */
+  background-color: var(--overlay); /* Set a background color */
   padding: 0.5em 1em 0.5em 0.5em;
-  box-shadow: 2px 4px 5px black;
   border-bottom-right-radius: 6px;
   border-top-right-radius: 6px;
   max-width: 15%;  
@@ -161,12 +163,11 @@ blockquote p, blockquote ul{
 .mainTOC{
   transition: border-color .5s ease;
   width: fit-content;
-  background-color: #19191b;
+  background-color: var(--overlay);
   border-left: solid 3px var(--primary);
   line-height: 18px;
   overflow: hidden;
   padding: 0px 2em 1em 1em;
-  box-shadow: 2px 4px 5px black;
   margin-top: 0px;
   margin-bottom: 1em;
   border-bottom-right-radius: 6px;
@@ -179,11 +180,11 @@ blockquote p, blockquote ul{
 
 em {
   font-style: italic;
-  color: #ff82b2;
+  color: var(--emphasis);
 }
 
 figcaption p{
   font-size: smaller;
   font-style: italic;
-  color: #61c766;
+  color: var(--bold);
 }
