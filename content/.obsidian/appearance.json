@@ -1,6 +1,7 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "Things",
-  "accentColor": ""
+  "cssTheme": "Catppuccin",
+  "accentColor": "",
+  "textFontFamily": "Segoe UI"
 }
