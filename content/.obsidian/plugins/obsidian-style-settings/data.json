@@ -2,5 +2,17 @@
   "things-style@@strong-color": "#61C766",
   "things-style@@h2-color": "#E5B567",
   "things-style@@h3-color": "#E5B567",
-  "things-style@@h4-color": "#E5B567"
+  "things-style@@h4-color": "#E5B567",
+  "catppuccin-font-styles@@ctp-bold": "var(--ctp-green)",
+  "catppuccin-font-styles@@ctp-italic": "var(--ctp-maroon)",
+  "catppuccin-font-styles@@ctp-strikethrough": "var(--ctp-sapphire)",
+  "catppuccin-font-styles@@ctp-blockquote": "var(--ctp-teal)",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h4": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h5": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-peach)",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false
 }
