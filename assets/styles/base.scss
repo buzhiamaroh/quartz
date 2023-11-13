@@ -84,7 +84,7 @@ p, tbody, li {
 }
 
 blockquote {
-  border-left: 3px solid var(--secondary);
+  border-left: 3px solid var(--tertiary);
   transition: border-color 0.2s ease;
   background-color: var(--overlay);
   line-height: 18px;
@@ -94,7 +94,7 @@ blockquote {
   margin: 15px auto;
   
   &:hover {
-    border-color: var(--tertiary);
+    border-color: var(--secondary);
   }
 }
 
