@@ -32,15 +32,14 @@
 }
 p.admonitionDamageHeader
 {
-  background-color: #b7010120;
-  border-left: solid 3px #b70101;
+  background-color: var(--primary);
   background-image: url(/notes/images/Check.png);
   background-position: 9px 16px;
   background-repeat: no-repeat;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
-  color: var(--dark) !important;
+  color: var(--ctp-mocha-crust) !important;
   font-weight: bold;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -50,7 +49,6 @@ p.admonitionDamageHeader
 
 p.admonitionDamageBody{
   background-color: var(--overlay);
-  border-left: solid 3px #b70101;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
@@ -62,15 +60,14 @@ p.admonitionDamageBody{
 
 p.admonitionEnrageHeader
 {
-  background-color: #ffff0020;
-  border-left: solid 3px #ff0;
+  background-color: var(--secondary);
   background-image: url(/notes/images/Warning-Message-16.png);
   background-position: 9px 16px;
   background-repeat: no-repeat;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
-  color: var(--dark) !important;
+  color: var(--ctp-mocha-crust) !important;
   font-weight: bold;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -79,7 +76,6 @@ p.admonitionEnrageHeader
 
 p.admonitionEnrageBody{
   background-color: var(--overlay);
-  border-left: solid 3px #ff0;
   line-height: 18px;
   overflow: hidden;
   padding: 15px 35px;
